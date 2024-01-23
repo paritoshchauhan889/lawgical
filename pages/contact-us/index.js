@@ -50,7 +50,7 @@ const ContactUs = () => {
     });
 
     let reqOptions = {
-      url: `https://lawgicalassociates1.netlify.app/api/contact-us`,
+      url: `https://lawgicalassociates.netlify.app/api/contact-us`,
       method: "POST",
       headers: headersList,
       data: bodyContent,
