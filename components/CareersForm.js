@@ -57,7 +57,7 @@ function CareersForm() {
     let bodyContent = formdata;
 
     let reqOptions = {
-      url: `https://lawgicalassociates.netlify.app/api/career-form`,
+      url: `https://bissgro.com/api/career-form`,
       method: "POST",
       headers: headersList,
       data: bodyContent,

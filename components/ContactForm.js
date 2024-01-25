@@ -39,7 +39,7 @@ function ContactForm(props) {
     });
 
     let reqOptions = {
-      url: `https://lawgicalassociates.netlify.app/api/contact-us`,
+      url: `https://bissgro.com/api/contact-us`,
       method: "POST",
       headers: headersList,
       data: bodyContent,
